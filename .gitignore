@@ -3,3 +3,5 @@
 /doc
 TEST-*.xml
 .DS_Store
+.*
+*.iml
